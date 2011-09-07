@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.authors     = ["Pedro Carvalho"]
   s.email       = ["pnunovc@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/pnunocarvalho/codebits-api"
   s.summary     = %q{Wrapper to the SAPO Codebits API}
   s.description = %q{Wrapper to the SAPO Codebits API}
 
