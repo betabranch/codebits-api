@@ -2,7 +2,7 @@ Codebits API
 ============
 
 A dead simple ruby wrapper for the [SAPO Codebits API](http://codebits.eu)
-as part of a project idea for codebits 2011 that we had at [Beta Branch](https://github.com/betabranch)
+as part of a project idea for codebits 2011 that we had at [Beta Branch](https://betabranch.com)
 
 **Warning:** I haven't tested most methods yet, hope to do it soon.
 

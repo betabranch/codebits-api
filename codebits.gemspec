@@ -3,10 +3,10 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "codebits"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.authors     = ["Pedro Carvalho"]
   s.email       = ["pnunovc@gmail.com"]
-  s.homepage    = "http://github.com/pnunocarvalho/codebits-api"
+  s.homepage    = "http://github.com/betabranch/codebits-api"
   s.summary     = %q{Wrapper to the SAPO Codebits API}
   s.description = %q{Wrapper to the SAPO Codebits API}
 
