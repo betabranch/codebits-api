@@ -1,5 +1,3 @@
-require 'codebits/connection'
-
 module Codebits
   module Request
     def get(path, options={})
